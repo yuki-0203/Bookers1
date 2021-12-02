@@ -1,0 +1,23 @@
+h1 {
+  font-weight: bold;
+  margin-left: 1.5%;
+  margin-top: 1.5%;
+  font-size: 25px; }
+
+span {
+  font-weight: bold; }
+
+p {
+  font-size: small;
+  margin-left: 3%;
+  line-height: 60px; }
+
+.nav-link {
+  font-size: small;
+  color: #c0c0c0;
+  margin-left: 3%; }
+
+.nav-link ::selection {
+  background: black; }
+
+/*# sourceMappingURL=homes.css.map */
